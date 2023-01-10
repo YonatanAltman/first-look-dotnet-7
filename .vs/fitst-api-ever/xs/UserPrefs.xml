@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{63E907C9-5B06-4D9C-978A-95A18A1A90A7}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fitst-api-ever/Program.cs">
+    <Files>
+      <File FileName="fitst-api-ever/Program.cs" Line="12" Column="2" />
+      <File FileName="fitst-api-ever/appsettings.json" Line="1" Column="1" />
+      <File FileName="fitst-api-ever/Properties/launchSettings.json" Line="22" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fitst-api-ever" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="fitst-api-ever" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.fitst-api-ever PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
