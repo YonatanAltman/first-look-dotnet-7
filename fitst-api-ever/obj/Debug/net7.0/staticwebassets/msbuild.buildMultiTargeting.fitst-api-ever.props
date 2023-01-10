@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fitst-api-ever.props" />
+</Project>
