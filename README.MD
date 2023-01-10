@@ -1,3 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-</configuration>
+﻿# First Api ever 7
+
+This is my first time using dotnet 7.
