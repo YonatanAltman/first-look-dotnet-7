@@ -14,4 +14,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include=".github\" />
+    <Folder Include=".github\workflows\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".github\workflows\main_dev01-api.yml" />
+  </ItemGroup>
 </Project>
